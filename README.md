@@ -60,14 +60,6 @@ Improving website speed, caching strategies, and frontend/backend efficiency.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishantkashyap1&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantkashyap1&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **nishantkum0@gmail.com**
