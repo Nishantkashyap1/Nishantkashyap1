@@ -64,7 +64,6 @@ Improving website speed, caching strategies, and frontend/backend efficiency.
 ## 📫 Connect With Me
 
 - 📧 Email: **nishantkum0@gmail.com**
-- 💼 LinkedIn: *(Add when available)*
 
 ---
 
