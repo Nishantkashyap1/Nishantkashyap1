@@ -41,6 +41,7 @@ I design and develop scalable, maintainable, and high-performance CMS solutions 
 ✔ Performance Optimization  
 ✔ Debugging & Issue Resolution  
 ✔ Clean & Maintainable Code  
+✔ Migration in to latest version
 
 ---
 
